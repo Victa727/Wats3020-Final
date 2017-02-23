@@ -7,3 +7,4 @@ Intendending to use the following 3rd party tools;
   - JQuery/Json: Pop-ups 
   - Bootstrap:  To resize page automatcally
   - google maps/leaftjet: display location information, how to find shop.
+  - Flick photo link
